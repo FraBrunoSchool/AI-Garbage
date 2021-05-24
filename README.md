@@ -34,3 +34,7 @@
     TensorFlow -> Used to train the neural network 
     Teachable machine -> Used to create the neural network model
 ```
+    
+## Raspberry diagram
+![Raspberry](raspberry.png)
+
