@@ -5,10 +5,10 @@
     Our AI can recognize some classes such as plastic, paper, iron, organic , glass, mix.
 
 ## Team
-- Acchiardi Paolo [Profile](https://github.com/paoloacchiardi)
-- Badoino Matteo [Profile](https://github.com/BadoinoMatteo)
-- Bernardi Gianluca [Profile](https://github.com/GianluBerna)
-- Bruno Francesco [Profile](https://github.com/FraBrunoSchool)
+- [Acchiardi Paolo](https://github.com/paoloacchiardi)
+- [Badoino Matteo](https://github.com/BadoinoMatteo)
+- [Bernardi Gianluca](https://github.com/GianluBerna)
+- [Bruno Francesco](https://github.com/FraBrunoSchool)
     
 ## Hardware
 - [Raspberry pi 3+](https://www.amazon.it/Raspberry-Pi-3-modello-B/dp/B07BDR5PDW/ref=sr_1_5?adgrpid=72623816792&dchild=1&gclid=Cj0KCQjwna2FBhDPARIsACAEc_VKH4bG_wOmYHt4oQkxNJqYd2UWvjuMfdU9sR3VM3QpNRj21PPSucsaApcVEALw_wcB&hvadid=357885017730&hvdev=c&hvlocphy=20543&hvnetw=g&hvqmt=b&hvrand=16285999585383238082&hvtargid=kwd-299837329633&hydadcr=15912_1840176&keywords=raspberry+pi+3+b%2B&qid=1621840395&sr=8-5)
