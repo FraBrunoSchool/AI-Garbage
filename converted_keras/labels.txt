@@ -1,0 +1,6 @@
+0 Paper
+1 Plastic
+2 Glass
+3 Mix
+4 Iron
+5 Organic
